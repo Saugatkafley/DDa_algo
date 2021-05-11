@@ -7,4 +7,5 @@ C++
 # Library used 
 Opengl , GLUT
 
-
+# Bugs 
+This may contain some bugs . 
